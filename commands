@@ -8,7 +8,6 @@
     vim test.txt
     git add test.txt
     git commit -m "REPO COMMITTED"
-    git push origin master
     git push test master
     git remote add origin https://github.com/kumawat55/test
     git push origin master
