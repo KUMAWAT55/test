@@ -1,0 +1,14 @@
+    6  git config --global user.name "kumawat55"
+    7  git config --global user.email "rhtkumawat55@gmail.com"
+    8  git init test
+   11  cd test/
+   14  gedit README
+   15  ls
+   16  git add README 
+   17  vim test.txt
+   21  git add test.txt
+   22  git commit -m "REPO COMMITTED"
+   24  git push origin master
+   25  git push test master
+   26  git remote add origin https://github.com/kumawat55/test
+   27  git push origin master
