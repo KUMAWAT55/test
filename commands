@@ -14,3 +14,8 @@ git push origin master
 git remote add origin https://github.com/kumawat55/test
 git push origin master
 ######################################################
+
+
+PERMANENT CREDENTIAL CACHE
+git config --global credential.helper 'cache --timeout 7200'
+
