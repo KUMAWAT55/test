@@ -1,5 +1,7 @@
 ##Globally configure the username for all repos
-git config --global user.name "kumawat55"
+
+**git config --global user.name "kumawat55"**
+
 
 ##Globally configure the userEmail for all repos
 git config --global user.email "rhtkumawat55@gmail.com"
