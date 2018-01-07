@@ -1,21 +1,21 @@
-## Globally configure the username for all repos
+##### Globally configure the username for all repos
 
 `git config --global user.name "kumawat55"`
 
 
-## Globally configure the userEmail for all repos
+##### Globally configure the userEmail for all repos
 
 `git config --global user.email "rhtkumawat55@gmail.com"`
 
-## Initialize a git repo
+##### Initialize a git repo
 
 `git init test`
 
--->Create any file here test.txt<--
+### -->Create any file here test.txt<--
 
 `vim test.txt`
 
-#Add file to staging Arena
+##### Add file to staging Arena
 
 `git add test.txt`
 
