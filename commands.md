@@ -11,7 +11,7 @@
 
 `git init test`
 
-### -->Create any file here test.txt<--
+##### -->Create any file here test.txt<--
 
 `vim test.txt`
 
@@ -19,15 +19,15 @@
 
 `git add test.txt`
 
-#Permanently save changes in file
+##### Permanently save changes in file
 
 `git commit -m "REPO COMMITTED"`
 
-#Command will push the local branch to remote branch(https://github.com/kumawat55/test)
+##### Command will push the local branch to remote branch(https://github.com/kumawat55/test)
 
 `git push origin master`
 
-#Intializing origin with remote link
+##### Intializing origin with remote link
 
 `git remote add origin https://github.com/kumawat55/test`
 
