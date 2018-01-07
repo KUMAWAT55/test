@@ -31,12 +31,12 @@
 
 `git remote add origin https://github.com/kumawat55/test`
 
-##The output of this command will display everything the git log command displays for the HEAD commit, 
+##### The output of this command will display everything the git log command displays for the HEAD commit, 
 plus all the file changes that were committed.
 
 `git show HEAD`
 
-##It will permanently cache the user credentials for a period of time
+##### It will permanently cache the user credentials for a period of time
 
 `git config --global credential.helper 'cache --timeout 7200'`
 
