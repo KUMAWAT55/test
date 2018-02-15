@@ -40,3 +40,5 @@ plus all the file changes that were committed.
 
 `git config --global credential.helper 'cache --timeout 7200'`
 
+##### To Create a GIT repository copy from a remote source
+    git clone <link>
