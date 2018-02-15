@@ -28,6 +28,11 @@
 
 `git commit -m "REPO COMMITTED"`
 
+##### To Shows you the status of files in the index versus the working directory. 
+It will list out files that are untracked (only in your working directory), modified (tracked but not yet updated in your index), and staged (added to your index and ready for committing).
+          
+    git status
+
 ##### Command will push the local branch to remote branch(https://github.com/kumawat55/test)
 
 `git push origin master`
