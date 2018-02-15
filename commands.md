@@ -31,7 +31,9 @@
 ##### To Shows you the status of files in the index versus the working directory. 
 It will list out files that are untracked (only in your working directory), modified (tracked but not yet updated in your index), and staged (added to your index and ready for committing).
           
-    git status
+    git status 
+##### To Reset your index and working directory to the state of your last commit.
+          
 
 ##### Command will push the local branch to remote branch(https://github.com/kumawat55/test)
 
