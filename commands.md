@@ -37,7 +37,7 @@ It will list out files that are untracked (only in your working directory), modi
 
 ##### Command will push the local branch to remote branch(https://github.com/kumawat55/test)
 
-`git push origin master`
+`   git push origin master`
 
 ##### Intializing origin with remote link
 
