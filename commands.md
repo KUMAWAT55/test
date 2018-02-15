@@ -21,12 +21,12 @@
 
 ##### Remove file from staging Arena
 
-`git rm test.txt`
+`   git rm test.txt`
 
 
 ##### Permanently save changes in file
 
-`git commit -m "REPO COMMITTED"`
+`   git commit -m "REPO COMMITTED"`
 
 ##### To Shows you the status of files in the index versus the working directory. 
 It will list out files that are untracked (only in your working directory), modified (tracked but not yet updated in your index), and staged (added to your index and ready for committing).
