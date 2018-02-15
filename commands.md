@@ -19,6 +19,11 @@
 
 `git add test.txt`
 
+##### Remove file from staging Arena
+
+`git rm test.txt`
+
+
 ##### Permanently save changes in file
 
 `git commit -m "REPO COMMITTED"`
