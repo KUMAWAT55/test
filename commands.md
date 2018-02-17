@@ -54,3 +54,10 @@ plus all the file changes that were committed.
 
 ##### To Create a GIT repository copy from a remote source
     git clone <link>
+
+
+
+
+
+
+    git merge
