@@ -57,7 +57,7 @@ plus all the file changes that were committed.
 
 
 
-git tag
+git tag git pull
 
 
     git merge
