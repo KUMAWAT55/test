@@ -60,4 +60,4 @@ plus all the file changes that were committed.
 git tag git pull
 
 
-    git merge
+    git merge git log
