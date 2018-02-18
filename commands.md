@@ -62,4 +62,5 @@ git pull
 git archive 
 git diff
 
-    git merge git log
+    git merge
+    git log
