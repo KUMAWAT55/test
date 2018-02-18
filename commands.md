@@ -57,10 +57,10 @@ plus all the file changes that were committed.
 
 
 
-git tag
-git pull
-git archive 
-git diff
+    git tag
+    git pull
+    git archive 
+    git diff
 
     git merge
     git log
