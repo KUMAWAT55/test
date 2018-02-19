@@ -61,8 +61,11 @@ plus all the file changes that were committed.
 ##### to fetch the files from the remote repository and merges it with your local one
     git pull
     
+##### Creates a tar or zip file including the contents of a single tree from your repository    
     git archive 
-    git diff
+   
+   git diff
+    
 
     git merge
     git log
