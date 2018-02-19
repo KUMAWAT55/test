@@ -59,7 +59,7 @@ plus all the file changes that were committed.
     git tag -a v1.0 -m 'this is version 1.0 tag'   
     
 ##### to fetch the files from the remote repository and merges it with your local one
-    git pull
+    git pull origin
     
 ##### Creates a tar or zip file including the contents of a single tree from your repository    
     git archive 
