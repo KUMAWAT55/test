@@ -55,9 +55,8 @@ plus all the file changes that were committed.
 ##### To Create a GIT repository copy from a remote source
     git clone <link>
 
-
-
-    git tag
+##### "git tag" Tags a specific commit with a simple, human readable handle that never moves
+          
     git pull
     git archive 
     git diff
