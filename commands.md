@@ -57,7 +57,10 @@ plus all the file changes that were committed.
 
 ##### "git tag" Tags a specific commit with a simple, human readable handle that never moves
     git tag -a v1.0 -m 'this is version 1.0 tag'   
+    
+##### to fetch the files from the remote repository and merges it with your local one
     git pull
+    
     git archive 
     git diff
 
