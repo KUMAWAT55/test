@@ -63,6 +63,7 @@ plus all the file changes that were committed.
     
 ##### Creates a tar or zip file including the contents of a single tree from your repository    
     git archive 
+    git archive --format=zip master^ README >file.zip
    
    git diff
     
