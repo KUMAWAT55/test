@@ -56,7 +56,7 @@ plus all the file changes that were committed.
     git clone <link>
 
 ##### "git tag" Tags a specific commit with a simple, human readable handle that never moves
-          
+    git tag -a v1.0 -m 'this is version 1.0 tag'   
     git pull
     git archive 
     git diff
