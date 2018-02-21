@@ -73,4 +73,7 @@ plus all the file changes that were committed.
     
     git merge
     git merge newbranchversion
+    
+##### To Show a listing of commits on a branch including the corresponding details. Example:
+   
     git log
