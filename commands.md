@@ -67,8 +67,7 @@ plus all the file changes that were committed.
     
     
 ##### To Generates patch files or statistics of differences between paths or files in your git repository, or your index or your working directory
-   
-   git diff
+    git diff
     
 
     git merge
