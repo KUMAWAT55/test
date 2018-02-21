@@ -72,4 +72,5 @@ plus all the file changes that were committed.
 ##### To merges one or more branches into your current branch and automatically creates a new commit if there are no conflicts
     
     git merge
+    git merge newbranchversion
     git log
