@@ -69,6 +69,7 @@ plus all the file changes that were committed.
 ##### To Generates patch files or statistics of differences between paths or files in your git repository, or your index or your working directory
     git diff
     
-
+##### To merges one or more branches into your current branch and automatically creates a new commit if there are no conflicts
+    
     git merge
     git log
