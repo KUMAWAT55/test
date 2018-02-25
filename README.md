@@ -13,3 +13,6 @@ A newly created object is stored in its own file. The objects are placed over 25
 
 ##### objects/pack folder
 Files that store many object in compressed form, along with index files to allow them to be randomly accessed are found in this directory.
+
+##### objects/info folder
+Additional information about the object stored is placed in this directory.
