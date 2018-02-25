@@ -16,3 +16,4 @@ Files that store many object in compressed form, along with index files to allow
 
 ##### objects/info folder
 Additional information about the object stored is placed in this directory.
+##### refs folder
