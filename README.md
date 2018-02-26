@@ -18,3 +18,4 @@ Files that store many object in compressed form, along with index files to allow
 Additional information about the object stored is placed in this directory.
 ##### refs folder
 References are stored in subdirectories of this directory. The git prune command knows to preserve objects reachable from refs found in this directory and its subdirectories.
+##### *refs/heads/ folder
