@@ -22,3 +22,7 @@ References are stored in subdirectories of this directory. The git prune command
 Contains commit objects.
 refs/tags/ folder
 Contains any object name
+
+
+refs/remotes/ folder
+Contains commit objects of branches copied from a remote repository.
