@@ -20,3 +20,5 @@ Additional information about the object stored is placed in this directory.
 References are stored in subdirectories of this directory. The git prune command knows to preserve objects reachable from refs found in this directory and its subdirectories.
 ##### *refs/heads/ folder
 Contains commit objects.
+refs/tags/ folder
+Contains any object name
